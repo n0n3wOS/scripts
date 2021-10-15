@@ -14,6 +14,7 @@ LOGS_FILES=(
         /var/log/secure # Authentication log
         /var/log/utmp # Login records file
         /var/log/wtmp # Login records file
+        /var/log/lastlog # Login records file        
         /var/log/yum.log # Yum command log file
         /var/log/system.log # System Log
         /var/log/DiagnosticMessages # Mac Analytics Data
